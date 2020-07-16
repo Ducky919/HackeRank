@@ -1,4 +1,4 @@
-package Java_Introduction;
+package java.introduction;
 
 import java.util.*;
 public class Java_Stdin_Stdout_I {

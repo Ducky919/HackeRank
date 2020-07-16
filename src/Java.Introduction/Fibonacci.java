@@ -1,4 +1,4 @@
-package Java_Introduction;
+package java.introduction;
 
 /*
 def Fibo(n):

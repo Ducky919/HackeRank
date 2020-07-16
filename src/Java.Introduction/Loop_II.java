@@ -1,5 +1,4 @@
-package Java_Introduction;
-
+package java.introduction;
 import java.util.*;
 import java.io.*;
 public class Loop_II {

@@ -1,4 +1,4 @@
-package Java_Introduction;
+package java.introduction;
 
 public class Solution {
     public static void main(String[] args) {

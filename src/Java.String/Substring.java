@@ -1,4 +1,4 @@
-package Java_String;
+package java.string;
 
 import java.io.*;
 import java.util.*;

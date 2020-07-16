@@ -1,5 +1,4 @@
-package Java_Introduction;
-
+package java.introduction;
 import java.time.LocalDate;
 
 class Result {
