@@ -1,3 +1,5 @@
+package Java_Introduction;
+
 import java.util.*;
 import java.io.*;
 public class DataType {
