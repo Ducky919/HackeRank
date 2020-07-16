@@ -27,8 +27,8 @@ public class StringIntroduction {
     public static void main(String[] args) {
 
         Scanner sc=new Scanner(System.in);
-        String firstName=sc.next();
-        String lastName=sc.next();
+        String firstName = sc.next();
+        String lastName = sc.next();
 
         nameLength(firstName,lastName);
         nameCompare(firstName,lastName);
