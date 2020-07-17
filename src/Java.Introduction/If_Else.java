@@ -1,4 +1,4 @@
-package Java_Introduction;
+
 
 import java.io.*;
 import java.math.*;
@@ -7,7 +7,7 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
-package java.introduction;
+
 public class If_Else {
     private static final Scanner scanner = new Scanner(System.in);
 
