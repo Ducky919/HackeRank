@@ -26,22 +26,10 @@ public class StringIntroduction {
         Scanner sc       = new Scanner(System.in);
         String firstName = sc.next();
         String lastName  = sc.next();
-
-//        System.out.println(calculateNameLength(firstName, lastName));
-//        checkName(firstName, lastName);
-//        showFullName(firstName, lastName);
-
         StringIntroduction stringIntroductionObject = new StringIntroduction();
         System.out.println(stringIntroductionObject.calculateNameLength(firstName, lastName));
         stringIntroductionObject.checkName(firstName, lastName);
         stringIntroductionObject.showFullName(firstName, lastName);
-
-
-//        StringIntroduction lexicographicResult = new StringIntroduction();
-//        lexicographicResult.checkName(firstName, lastName);
-//
-//        StringIntroduction fullNameResult = new StringIntroduction();
-//        fullNameResult.showFullName(firstName, lastName);
     }
 }
 
