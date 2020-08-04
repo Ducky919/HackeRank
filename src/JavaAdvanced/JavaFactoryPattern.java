@@ -19,11 +19,11 @@ class Cake implements Food {
 class FoodFactory {
     public Food getFood(String order) {
 
-    switch (order){
-        case "pizza": return new Pizza();
-        case "cake" : return new Cake();
-        default : return null;
-    }
+        return switch (order) {
+            case "pizza" -> new Pizza();
+            case "cake" -> new Cake();
+            default -> null;
+        };
     }//End of getFood method
 
 }//End of factory class
